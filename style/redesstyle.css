@@ -1,0 +1,107 @@
+
+.d-flex {
+    width: 50%;
+}
+
+.navbar {
+    background-color: #fcaa31;
+}
+
+.bloco3 {
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 67%;
+    border: 1px solid;
+    height: 140px;
+    margin: auto;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    border-color: rgba(214, 214, 214, 0.788);
+}
+
+.circulo {
+    width: 70px;
+    border: 1px solid;
+    height: 70px;
+    margin: auto;
+    margin-bottom: 15px;
+    border-radius: 100%;
+    border-color: rgb(80, 80, 80)
+}
+
+.story {
+    display: inline-block;
+    padding-top: 10px;
+    border: 40px;
+    width: 100px;
+    border: 1px solid;
+    height: 130px;
+    margin: auto;
+    margin-bottom: 15px;
+    border-color: rgba(255, 255, 255, 0);
+    text-align: center;
+    
+}
+
+.perfil {
+    border: 1px;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 15px;
+    text-align: center;
+    
+}
+
+.circulop {
+    width: 50px;
+    border: 1px solid;
+    height: 50px;
+    margin: auto;
+    margin-bottom: 15px;
+    border-radius: 100%;
+    border-color: rgb(80, 80, 80)
+}
+
+.bloco4 {
+    width: 100%;
+    border: 1px solid;
+    height: 1850px;
+    margin: auto;
+    margin-bottom: 10px;
+    border-color: rgba(170, 170, 170, 0.623);
+    align-items: center;
+}
+
+.card {
+    padding-top: 30px;
+    padding-bottom:  10px;
+    padding-left: 10px;
+    padding-right:  10px;
+}
+
+.bloco5 {
+    padding-left: 10px;
+    width: 33%;
+    border: 1px;
+    height: 1190px;
+    margin: auto;
+    border-color: rgb(32, 31, 31);
+    display: inline-block;
+}
+
+footer {
+    background-color:#fcaa31 ;
+    font-size: x-large;
+    text-align: center;
+}
+
+.img {
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
